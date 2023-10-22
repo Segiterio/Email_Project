@@ -1,0 +1,22 @@
+.FilterContainer {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+    height:100px;
+}
+
+.Filters {
+    display: flex;
+    gap: 1rem;
+    align-items: center;
+}
+
+.activeFilter {
+     background-color: black;
+     color:white;
+}
+
+.Mails_container {
+     height: calc(100vh - 100px);
+     display: flex;
+}

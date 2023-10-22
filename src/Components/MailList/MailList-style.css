@@ -1,0 +1,23 @@
+.activeMail {
+     border:1px solid;
+     cursor: pointer;
+}
+
+.mail {
+     background-color: gray;
+     cursor: pointer;
+}
+
+.mailItem {
+    display: flex;
+    gap:1rem;
+    border:1px solid;
+    padding:10px;
+}
+
+.nameStyle{
+    border-radius: 50px;
+    padding:.8rem;
+    background-color: #b0ca2f;
+    text-transform: uppercase;
+}
